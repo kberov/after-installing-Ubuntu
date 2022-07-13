@@ -9,7 +9,7 @@
 # List all the snaps installed on your system
 sudo apt install epiphany-browser
 
-sudo apt udate
+sudo apt update
 sudo apt upgrade
 snap list
 # Remove all installed snaps
